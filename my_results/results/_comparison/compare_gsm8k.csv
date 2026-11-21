@@ -1,0 +1,2 @@
+model,n,acc_orig,gap_rename,gap_rename_ci,n_rename,gap_distractor,gap_distractor_ci,n_distractor,spearman_rename_gap,spearman_rename_gap_ci,spearman_min_k,spearman_min_k_ci,size_b
+Qwen2.5-1.5B-Instruct,500,0.592,0.03773584905660377,"[-0.02830188679245283, 0.11320754716981132]",106,0.11,"[0.066, 0.158]",500,0.04668523145761699,"[-0.15443361472390885, 0.2334899688743838]",-0.07056241090540583,"[-0.24763919707910634, 0.12736288996436299]",1.5

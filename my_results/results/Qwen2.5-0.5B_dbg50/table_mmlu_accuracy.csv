@@ -1,0 +1,7 @@
+condition,accuracy,ci_lo,ci_hi
+orig,0.5,0.36,0.64
+shift1,0.36,0.24,0.5
+shift2,0.38,0.26,0.52
+shift3,0.44,0.3,0.58
+rand1,0.42,0.28,0.56
+rand2,0.36,0.2395,0.5

@@ -1,0 +1,27 @@
+{
+  "model": "Qwen2.5-1.5B-Instruct",
+  "n": 500,
+  "acc_orig": 0.592,
+  "gap_rename": 0.03773584905660377,
+  "gap_rename_ci": [
+    -0.02830188679245283,
+    0.11320754716981132
+  ],
+  "n_rename": 106,
+  "gap_distractor": 0.11,
+  "gap_distractor_ci": [
+    0.066,
+    0.158
+  ],
+  "n_distractor": 500,
+  "spearman_rename_gap": 0.04668523145761699,
+  "spearman_rename_gap_ci": [
+    -0.15443361472390885,
+    0.2334899688743838
+  ],
+  "spearman_min_k": -0.07056241090540583,
+  "spearman_min_k_ci": [
+    -0.24763919707910634,
+    0.12736288996436299
+  ]
+}

@@ -1,0 +1,12 @@
+# NOTE: on Google Colab do NOT run pip install -r requirements.txt (it can replace Colab's torch).
+# Colab only needs:  pip install -q accelerate "datasets<4.0" bitsandbytes
+torch
+transformers>=4.40
+accelerate
+datasets<4.0
+numpy
+pandas
+scipy
+matplotlib
+tqdm
+bitsandbytes   # optional: --load-4bit (Linux + NVIDIA GPU)

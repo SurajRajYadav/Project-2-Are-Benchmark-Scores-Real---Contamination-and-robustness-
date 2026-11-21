@@ -1,0 +1,12 @@
+{
+  "model": "Qwen/Qwen2.5-0.5B",
+  "data": "data",
+  "limit": 50,
+  "shifts": 3,
+  "random_shuffles": 2,
+  "signal_perms": 4,
+  "skip_signals": false,
+  "batch_size": 8,
+  "load_4bit": false,
+  "seed": 0
+}

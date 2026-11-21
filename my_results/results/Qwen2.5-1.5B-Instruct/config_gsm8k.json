@@ -1,0 +1,15 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "data": "data",
+  "limit": null,
+  "conditions": [
+    "orig",
+    "rename",
+    "distractor"
+  ],
+  "batch_size": 16,
+  "max_new_tokens": 320,
+  "skip_signals": false,
+  "load_4bit": false,
+  "seed": 0
+}
